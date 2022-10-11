@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,11 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Pavlik1313/test-task-for-RIA-server.git"
   },
-  "keywords": [
-    "RIA",
-    "express"
-  ],
-  "author": "Vlad Pavlyuk",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Pavlik1313/test-task-for-RIA-server/issues"
